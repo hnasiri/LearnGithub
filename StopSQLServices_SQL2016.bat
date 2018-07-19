@@ -1,3 +1,4 @@
+# Stop SQL server services
 net stop SQLAgent$SQL2016
 #net stop MSOLAP$SQL2016
 net stop MsDtsServer130
